@@ -4,4 +4,4 @@
   cd market_pos
   npm install
   npm run format
-  npm run dev
+  npm run electron:serve

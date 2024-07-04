@@ -26,3 +26,6 @@ src/plugins*
 *.sw?
 
 *.tsbuildinfo
+
+#Electron-builder output
+/dist_electron
